@@ -1,0 +1,13 @@
+ChoiDujourNX makes use of the following third party code:
+
+The littlevgl library provides UI rendering for the entire application. 
+	littlevgl (https://github.com/littlevgl/lvgl/) is licensed under the MIT license and Copyright (c) 2016 Gábor Kiss-Vámosi
+
+NCA/PFS0/RomFS header struct declarations adapted from hactool.
+	hactool (https://github.com/SciresM/hactool) is licensed under the ISC license and Copyright (c) 2018 SciresM
+
+bignum.c and dependent headers used from mbed(tm) TLS.
+	mbed(tm) TLS (https://github.com/ARMmbed/mbedtls/) is licensed under the Apache 2.0 license and is Copyright (c) 2008-2016 ARM Limited
+
+libnx is used for interaction with the OS.
+	libnx (https://github.com/switchbrew/libnx/) is licensed under the ISC license and Copyright (c) 2017-2018 libnx Authors
